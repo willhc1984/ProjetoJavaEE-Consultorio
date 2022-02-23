@@ -28,6 +28,7 @@
 <body>
 
 	<%@ include file="../css/cabecalho-adm.jsp"%>
+	
 	<div class="gambiarra"></div>
 
 	<!-- HTML Form (wrapped in a .bootstrap-iso div) -->
