@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/will-/Documents/catalina-6.0.53.jar"/>
+	<classpathentry kind="lib" path="C:/Users/will-/Documents/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/will-/Documents/annotations-api-6.0.53.jar"/>
+	<classpathentry kind="lib" path="C:/Users/will-/Documents/coyote-6.0.53.jar"/>
+	<classpathentry kind="lib" path="C:/Users/will-/Documents/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/will-/Documents/jstl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/will-/Documents/tomcat-servlet-api-9.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/will-/Documents/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/will-/Documents/commons.web-0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/will-/Documents/mysql-connector-java-8.0.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/will-/Documents/web-gui-plugin-common-3.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

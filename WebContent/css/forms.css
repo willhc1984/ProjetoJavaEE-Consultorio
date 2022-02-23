@@ -1,0 +1,37 @@
+@charset "ISO-8859-1";
+
+.bootstrap-iso .form-group button, .bootstrap-iso form input.form-control, .bootstrap-iso form textarea.form-control, 
+.bootstrap-iso form select.form-control, .bootstrap-iso form .form-group-lg input.form-control, .bootstrap-iso form
+.form-group-lg textarea.form-control, .bootstrap-iso form .form-group-lg select.form-control, 
+.bootstrap-iso form .form-group-sm input.form-control, .bootstrap-iso form .form-group-sm textarea.form-control,
+ .bootstrap-iso form .form-group-sm select.form-control{
+ -webkit-border-radius: 20px;
+ -moz-border-radius: 20px; 
+ border-radius: 20px;
+ }
+ 
+ .bootstrap-iso .formden_header h2, .bootstrap-iso .formden_header p, .bootstrap-iso form{
+ font-family: Arial, Helvetica, sans-serif; color: #000000}
+ 
+ .bootstrap-iso form button, .bootstrap-iso form button:hover{
+ color: #337ab7 !important;}
+ 
+ .bootstrap-iso .outline, .bootstrap-iso .outline:focus{
+ background-color: transparent; 
+ border: 2px solid #337ab7} 
+ 
+ .bootstrap-iso .outline:hover{
+ background-color: transparent; 
+ border: 2px solid#5ba2df; 
+ color: #5ba2df !important} 
+ 
+ .asteriskField{
+ color: red;
+ }
+ 
+ .bootstrap-iso form .input-group-addon {
+ color:#555555; 
+ background-color: #eeeeee; 
+ border-radius: 20px; 
+ padding-left:15px;
+ }
